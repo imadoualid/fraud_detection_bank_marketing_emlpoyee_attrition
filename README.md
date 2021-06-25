@@ -1,0 +1,2 @@
+# fraud_detection_bank_marketing_emlpoyee_attrition
+classification of unbalanced data using deep learning algorithms and resampling techniques
